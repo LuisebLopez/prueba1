@@ -1,0 +1,165 @@
+{
+	"info": {
+		"_postman_id": "c6131c9b-cede-422a-8eda-46b5538ddfc7",
+		"name": "prueba1",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "prueba",
+			"item": [],
+			"protocolProfileBehavior": {}
+		},
+		{
+			"name": "http://localhost:3000/clientes?filter=%7B%0A%20%20%0A%7D",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/clientes?filter=%7B%0A%20%20%0A%7D",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"clientes"
+					],
+					"query": [
+						{
+							"key": "filter",
+							"value": "%7B%0A%20%20%0A%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/factura-encabezadohs?filter=%7B%0A%20%20%0A%7D",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/factura-encabezadohs?filter=%7B%0A%20%20%0A%7D",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"factura-encabezadohs"
+					],
+					"query": [
+						{
+							"key": "filter",
+							"value": "%7B%0A%20%20%0A%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/factura-encabezados?filter=%7B%0A%20%20%0A%7D",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/factura-encabezados?filter=%7B%0A%20%20%0A%7D",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"factura-encabezados"
+					],
+					"query": [
+						{
+							"key": "filter",
+							"value": "%7B%0A%20%20%0A%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/hogars?filter=%7B%0A%20%20%0A%7D",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/hogars?filter=%7B%0A%20%20%0A%7D",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"hogars"
+					],
+					"query": [
+						{
+							"key": "filter",
+							"value": "%7B%0A%20%20%0A%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/inventarios?filter=%7B%0A%20%20%0A%7D",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/inventarios?filter=%7B%0A%20%20%0A%7D",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"inventarios"
+					],
+					"query": [
+						{
+							"key": "filter",
+							"value": "%7B%0A%20%20%0A%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:3000/proveedor-sinlistas?filter=%7B%0A%20%20%0A%7D",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://localhost:3000/proveedor-sinlistas?filter=%7B%0A%20%20%0A%7D",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "3000",
+					"path": [
+						"proveedor-sinlistas"
+					],
+					"query": [
+						{
+							"key": "filter",
+							"value": "%7B%0A%20%20%0A%7D"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}
